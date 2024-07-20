@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/BriefBot/__init__.py
+src/BriefBot.egg-info/PKG-INFO
+src/BriefBot.egg-info/SOURCES.txt
+src/BriefBot.egg-info/dependency_links.txt
+src/BriefBot.egg-info/top_level.txt
+src/BriefBot/components/__init__.py
+src/BriefBot/config/__init__.py
+src/BriefBot/config/configuration.py
+src/BriefBot/constants/__init__.py
+src/BriefBot/entity/__init__.py
+src/BriefBot/logging/__init__.py
+src/BriefBot/pipeline/__init__.py
+src/BriefBot/utils/__init__.py
+src/BriefBot/utils/common.py
